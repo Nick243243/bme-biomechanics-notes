@@ -1,0 +1,3 @@
+# Prosthetics and Orthotics
+
+Prosthetics involves the design and fabrication of artificial limbs (prostheses) to replace missing body parts. Orthotics focuses on mechanical devices (orthoses) that support or correct the function of existing body parts. Recent advancements include myoelectric control systems, where surface electromyography (EMG) signals from residual muscles are used to control robotic prosthetic hands.
